@@ -5,9 +5,5 @@
   "framework": "vite",
   "env": {
     "NODE_ENV": "production"
-  },
-  "envVars": [
-    "VITE_CLERK_PUBLISHABLE_KEY",
-    "VITE_API_URL"
-  ]
+  }
 }
