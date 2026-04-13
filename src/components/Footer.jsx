@@ -9,15 +9,7 @@ const Footer = () => {
           <p className="mt-6 text-sm">
             Quickshow is a movie ticket booking application developed by Surya Pratap Dash, enabling users to browse films, select seats, make secure payments, view showtimes, and manage bookings efficiently online with ease.
           </p>
-          <div className="flex items-center gap-2 mt-4">
-            <img
-              src={assets.googlePlay}
-              alt="google play"
-              className="h-9 w-auto"
-            />
-            <img src={assets.appStore} alt="app store" className="h-9 w-auto" />
-          </div>
-        </div>
+                  </div>
         <div className="flex-1 flex items-start md:justify-end gap-20 md:gap-40">
           <div>
             <h2 className="font-semibold mb-5">Company</h2>
